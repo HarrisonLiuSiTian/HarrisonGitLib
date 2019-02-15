@@ -1,2 +1,4 @@
 string a ="aa";
 system.out.println(a);
+
+string b = "liusitiandemo"
