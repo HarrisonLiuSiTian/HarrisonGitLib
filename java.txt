@@ -2,3 +2,10 @@ string a ="aa";
 system.out.println(a);
 
 string b = "liusitiandemo"
+
+
+public class Demo{
+
+   int a =1;
+
+}
